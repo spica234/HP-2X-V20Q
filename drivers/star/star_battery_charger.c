@@ -31,7 +31,7 @@
 #include <linux/debugfs.h>
 #include <linux/power_supply.h>
 #include <linux/wakelock.h>
-
+#include <linux/spica.h>
 #include "nvcommon.h"
 #include "nvos.h"
 #include "nvrm_pmu.h"
